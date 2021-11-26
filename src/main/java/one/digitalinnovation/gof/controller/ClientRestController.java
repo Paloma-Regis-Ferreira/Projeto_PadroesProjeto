@@ -1,4 +1,4 @@
-package one.digitalInovation.gof.controller;
+package one.digitalinnovation.gof.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
